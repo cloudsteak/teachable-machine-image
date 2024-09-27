@@ -2,7 +2,7 @@
 
 ## Teachable Machine
 
-A Teachable Machine egy könnyen használható webes eszköz, amely lehetővé teszi bárki számára, hogy gépi tanulási modelleket hozzon létre anélkül, hogy mélyebb technikai ismeretekre lenne szükség. Az eszközt a Google fejlesztette ki, és célja, hogy a gépi tanulást hozzáférhetővé tegye mindenki számára, beleértve a tanárokat, diákokat, művészeket és fejlesztőket is.
+A Teachable Machine egy könnyen használható webes eszköz, amely lehetővé teszi bárki számára, hogy gépi tanulási modelleket hozzon létre anélkül, hogy mélyebb technikai ismeretekre lenne szükség. Az eszközt a Google fejlesztette ki, és célja, hogy a gépi tanulást hozzáférhetővé tegye mindenki számára, beleértve a tanárokat, diákokat, művészeket és fejlesztőket is. Ez az ingyenes eszköz kiváló játaszótér felnőtteknek, gyerekeknek és mindenki számára, aki érdeklődik az AI és a gépi tanulás iránt. :smile:
 
 Itt érheted el: [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
@@ -57,12 +57,16 @@ A játék eredményét ezek a szabályok határozzák meg.
 
 ## Gépi tanulás és az AI
 
-A gépi tanulás (machine learning) az AI (mesterséges intelligencia) egyik ága, amely lehetővé teszi a számítógépek számára, hogy adatokból tanuljanak és döntéseket hozzanak anélkül, hogy explicit módon programoznánk őket. Az AI egy tágabb fogalom, amely magában foglalja a gépi tanulást, valamint más technikákat is, mint például a szabályalapú rendszereket és a neurális hálózatokat. A gépi tanulás segítségével az AI rendszerek képesek felismerni mintákat, előrejelzéseket készíteni és komplex problémákat megoldani, ami számos alkalmazási területen hasznos lehet, például képfelismerés, természetes nyelvfeldolgozás és autonóm járművek esetében.
+A gépi tanulás (machine learning) az AI (mesterséges intelligencia) egyik ága, amely lehetővé teszi a számítógépek számára, hogy adatokból tanuljanak és döntéseket hozzanak anélkül, hogy explicit módon programoznánk őket. Az AI egy tágabb fogalom, amely magában foglalja a gépi tanulást, valamint más technikákat is, mint például a szabályalapú rendszereket és a neurális hálózatokat. 
+
+A gépi tanulás segítségével az AI rendszerek képesek felismerni mintákat, előrejelzéseket készíteni és komplex problémákat megoldani, ami számos alkalmazási területen hasznos lehet, például képfelismerés, természetes nyelvfeldolgozás és autonóm járművek esetében.
 
 
 ## Összefoglalva
 
-Az AI területén tovább mélyülve és a gépi tanulás alapjaival megismerkedve egyre több lehetőség nyílik arra, hogy kreatív és innovatív projekteket hozzunk létre. A Teachable Machine segítségével bárki könnyedén létrehozhat saját gépi tanulási modelleket, és alkalmazhatja azokat különböző területeken. A "Kő-Papír-Olló" játékhoz készített képfelismerő rendszerünk egy remek példa arra, hogy az AI hogyan segíthet az egyszerű játékok fejlesztésében és az interaktív alkalmazások létrehozásában.
+Az AI területén tovább mélyülve és a gépi tanulás alapjaival megismerkedve egyre több lehetőség nyílik arra, hogy kreatív és innovatív projekteket hozzunk létre. A Teachable Machine segítségével bárki könnyedén létrehozhat saját gépi tanulási modelleket, és alkalmazhatja azokat különböző területeken. 
+
+A "Kő-Papír-Olló" játékhoz készített képfelismerő rendszerünk egy remek példa arra, hogy az AI hogyan segíthet az egyszerű játékok fejlesztésében és az interaktív alkalmazások létrehozásában.
 
 ---
 
