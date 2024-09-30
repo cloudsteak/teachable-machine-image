@@ -1,4 +1,4 @@
-# Teachable Machine - AI eszközök egyszerűen
+# Teachable Machine - ML eszközök egyszerűen
 
 ## Teachable Machine
 
@@ -29,7 +29,7 @@ A Teachable Machine tehát egy sokoldalú és könnyen használható eszköz, am
 
 ## A mi projektünk célja
 
-Ebben a projektben a Teachable Machine AI megoldással készítünk egy képfelismerő, pózfelismerő rendszert a "Kő-Papír-Olló" játékhoz. A projekt során a következő lépéseket fogjuk követni:
+Ebben a projektben a Teachable Machine ML megoldással készítünk egy képfelismerő alkalmazást a "Kő-Papír-Olló" játékhoz. A projekt során a következő lépéseket fogjuk követni:
 
 1. **Adatgyűjtés**: Képek gyűjtése a "Kő", "Papír" és "Olló" kézmozdulatokról.
 2. **Modell betanítása**: A képek felhasználásával egy gépi tanulási modell betanítása a Teachable Machine segítségével.
